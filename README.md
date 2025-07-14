@@ -67,8 +67,8 @@ This is one of my first hands-on EDA projects using real-world data. I’m activ
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com) *(Add your link)*
-- [GitHub](https://github.com) *(Add your repo link)*
+- [LinkedIn](https://www.linkedin.com) *https://www.linkedin.com/in/saransh-sharma-647666315/*
+- [GitHub](https://github.com) *https://github.com/ssharma2315/Netflix_EDA/edit/main/README.md*
 
 ---
 
